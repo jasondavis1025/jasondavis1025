@@ -43,7 +43,10 @@ My background originally started in **biochemistry and biomedical research**, wh
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL, MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 **PostgreSQL** • **SQL Server** • **MySQL** • **MongoDB**
@@ -135,14 +138,6 @@ I'm always interested in expanding beyond my day-to-day stack, particularly in:
 * Distributed and data-intensive systems
 * Cloud infrastructure
 * Performance and developer tooling
-
----
-
-## 📊 GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasondavis1025&layout=compact&hide_border=true" alt="Jason's most used languages" />
-</p>
 
 ---
 
