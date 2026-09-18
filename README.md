@@ -106,7 +106,7 @@ A property management application exploring modern React and full-stack web deve
 
 ---
 
-### 👥 Employee Management
+### 🏢 Employee Management
 
 An employee management application built while working with the C# and .NET ecosystem.
 
