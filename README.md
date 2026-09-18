@@ -74,11 +74,9 @@ My background originally started in **bioinformatics**, where I wrote software t
 ### AI & Emerging Technologies
 
 <p>
-  <img src="./assets/CUBE_2D.png#gh-dark-mode-only" width="48" height="48" alt="Cursor">
-  <img src="./assets/CUBE_2D_DARK.png#gh-light-mode-only" width="48" height="48" alt="Cursor">
+  <img src="./assets/CUBE_2D.png" width="48" height="48" alt="Cursor" />
 </p>
 
-**Cursor** • **AI-Assisted Development** • **Microsoft AI & Power Platform** • **Dataverse**
 
 **Cursor** • **AI-Assisted Development** • **Microsoft AI Ecosystem** • **Dataverse**
 
