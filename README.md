@@ -1,12 +1,12 @@
 # Hi, I'm Jason Davis 👋
 
-### Senior Full Stack Software Engineer
+### Senior Full Stack Software Engineer | AI & Emerging Technologies
 
 I build and modernize full-stack applications with a focus on **Angular, TypeScript, Node.js, .NET, and relational databases**.
 
-My professional work includes enterprise application modernization, frontend architecture, developer tooling, performance optimization, API integrations, and data-driven applications. Outside of work, I enjoy building projects that let me explore different technologies and solve practical problems.
+My professional work spans enterprise application modernization, frontend architecture, developer tooling, performance optimization, API integrations, and data-driven applications. I'm currently expanding that experience into **AI-enabled development and the Microsoft Power Platform ecosystem**, exploring how AI and emerging technologies can be applied to real-world software and business systems.
 
-My background originally started in **bioinformatics**, where I wrote software to automate research workflows and analyze scientific data. These days, I'm much more likely to be debugging an Angular application, designing an API, working with a database, or experimenting with Rust.
+My background originally started in **bioinformatics**, where I wrote software to automate research workflows and analyze scientific data. Today, I work across the full stack while continuing to explore **AI, cloud architecture, Rust, distributed systems, and modern development tooling**.
 
 <p>
   <a href="https://www.linkedin.com/in/jasonalexanderdavis/">
