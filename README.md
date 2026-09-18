@@ -68,9 +68,6 @@ My background originally started in **bioinformatics**, where I wrote software t
 
 **AWS** • **Docker** • **Git** • **GitHub** • **Jira** • **Azure Data Studio**
 
-### AI & Developer Tools
-
-
 ### AI & Emerging Technologies
 
 <p>
