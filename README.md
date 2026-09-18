@@ -70,8 +70,15 @@ My background originally started in **bioinformatics**, where I wrote software t
 
 ### AI & Developer Tools
 
+
 <p>
-  <img src="https://skillicons.dev/icons?i=cursor" alt="Cursor" />
+  <img src="./assets/cursor.svg" width="48" height="48" alt="Cursor" />
+  &nbsp;
+  <img src="./assets/copilot-studio.svg" width="48" height="48" alt="Microsoft Copilot Studio" />
+  &nbsp;
+  <img src="./assets/ai-builder.svg" width="48" height="48" alt="Microsoft AI Builder" />
+  &nbsp;
+  <img src="./assets/dataverse.svg" width="48" height="48" alt="Microsoft Dataverse" />
 </p>
 
 **Cursor** • **AI-Assisted Development** • **Microsoft AI Ecosystem** • **Dataverse**
