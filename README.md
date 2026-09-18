@@ -24,6 +24,8 @@ My background originally started in **bioinformatics**, where I wrote software t
   <img src="https://skillicons.dev/icons?i=ts,js,cs,rust,html,css" alt="TypeScript, JavaScript, C#, Rust, HTML, CSS" />
 </p>
 
+**TypeScript** • **JavaScript** • **C#** • **Rust** • **HTML** • **CSS**
+
 ### Frontend
 
 <p>
