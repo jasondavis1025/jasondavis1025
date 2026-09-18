@@ -72,13 +72,11 @@ My background originally started in **bioinformatics**, where I wrote software t
 
 
 <p>
-  <img src="./assets/cursor.svg" width="48" height="48" alt="Cursor" />
-  &nbsp;
-  <img src="./assets/copilot-studio.svg" width="48" height="48" alt="Microsoft Copilot Studio" />
-  &nbsp;
-  <img src="./assets/ai-builder.svg" width="48" height="48" alt="Microsoft AI Builder" />
-  &nbsp;
-  <img src="./assets/dataverse.svg" width="48" height="48" alt="Microsoft Dataverse" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/CUBE_2D_LIGHT.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/CUBE_2D_DARK.png">
+    <img src="./assets/CUBE_2D_DARK.png" width="48" height="48" alt="Cursor">
+  </picture>
 </p>
 
 **Cursor** • **AI-Assisted Development** • **Microsoft AI Ecosystem** • **Dataverse**
