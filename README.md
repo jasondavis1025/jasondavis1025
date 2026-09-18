@@ -74,7 +74,7 @@ My background originally started in **bioinformatics**, where I wrote software t
 ### AI & Emerging Technologies
 
 <p>
-  <img src="./assets/CUBE_2D.png" width="48" height="48" alt="Cursor" />
+  <img src="https://raw.githubusercontent.com/jasondavis1025/jasondavis1025/main/assets/CUBE_2D.png" width="48" height="48" alt="Cursor" />
 </p>
 
 
