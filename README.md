@@ -70,6 +70,10 @@ My background originally started in **bioinformatics**, where I wrote software t
 
 ### AI & Developer Tools
 
+<p>
+  <img src="https://skillicons.dev/icons?i=cursor" alt="Cursor" />
+</p>
+
 **Cursor** • **AI-Assisted Development** • **Microsoft AI Ecosystem** • **Dataverse**
 
 ---
