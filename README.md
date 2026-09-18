@@ -72,7 +72,10 @@ My background originally started in **bioinformatics**, where I wrote software t
 
 <p>
   <img src="./assets/CUBE_25D.png" width="48" height="48" alt="Cursor" />
+  &nbsp;&nbsp;
+  <img src="./assets/PowerPlatform_scalable.svg" width="48" height="48" alt="Microsoft Power Platform" />
 </p>
+
 
 
 **Cursor** • **AI-Assisted Development** • **Microsoft AI Ecosystem** • **Dataverse**
