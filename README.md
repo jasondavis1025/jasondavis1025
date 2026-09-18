@@ -68,6 +68,10 @@ My background originally started in **bioinformatics**, where I wrote software t
 
 **AWS** • **Docker** • **Git** • **GitHub** • **Jira** • **Azure Data Studio**
 
+### AI & Developer Tools
+
+**Cursor** • **AI-Assisted Development** • **Microsoft AI Ecosystem** • **Dataverse**
+
 ---
 
 ## 🚀 Featured Projects
@@ -140,14 +144,15 @@ I work with AWS as part of my broader full-stack development experience and cont
 
 ## 🌱 Currently Exploring
 
-I'm always interested in expanding beyond my day-to-day stack, particularly in:
+I'm continuing to expand my experience in:
 
-* **Rust** and systems programming
-* Application and system architecture
-* Distributed and data-intensive systems
-* Cloud infrastructure
-* Performance and developer tooling
-
+- **AI-assisted software development**, including building applications with Cursor
+- **Microsoft AI and Power Platform technologies**, including Dataverse
+- **Rust** and systems programming
+- Application and system architecture
+- Distributed and data-intensive systems
+- Cloud infrastructure
+- Performance and developer tooling
 ---
 
 ## 📫 Connect
