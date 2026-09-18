@@ -6,7 +6,7 @@ I build and modernize full-stack applications with a focus on **Angular, TypeScr
 
 My professional work includes enterprise application modernization, frontend architecture, developer tooling, performance optimization, API integrations, and data-driven applications. Outside of work, I enjoy building projects that let me explore different technologies and solve practical problems.
 
-My background originally started in **biochemistry and biomedical research**, where I wrote software to automate research workflows and analyze scientific data. These days, I'm much more likely to be debugging an Angular application, designing an API, working with a database, or experimenting with Rust.
+My background originally started in **bioinformatics**, where I wrote software to automate research workflows and analyze scientific data. These days, I'm much more likely to be debugging an Angular application, designing an API, working with a database, or experimenting with Rust.
 
 <p>
   <a href="https://www.linkedin.com/in/jasonalexanderdavis/">
