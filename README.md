@@ -72,11 +72,8 @@ My background originally started in **bioinformatics**, where I wrote software t
 
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/CUBE_2D_LIGHT.png">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/CUBE_2D_DARK.png">
-    <img src="./assets/CUBE_2D_DARK.png" width="48" height="48" alt="Cursor">
-  </picture>
+  <img src="./assets/CUBE_2D_LIGHT.png#gh-dark-mode-only" width="48" height="48" alt="Cursor">
+  <img src="./assets/CUBE_2D_DARK.png#gh-light-mode-only" width="48" height="48" alt="Cursor">
 </p>
 
 **Cursor** • **AI-Assisted Development** • **Microsoft AI Ecosystem** • **Dataverse**
