@@ -1,4 +1,4 @@
-# Hi, I'm Jason Davis 👋
+# Hi, I'm Jason Davis
 
 ### Senior Full Stack Software Engineer | AI & Emerging Technologies
 
@@ -16,7 +16,7 @@ My background originally started in **bioinformatics**, where I wrote software t
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -82,7 +82,7 @@ My background originally started in **bioinformatics**, where I wrote software t
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🍽️ Restaurant Ordering Platform
 
@@ -126,7 +126,7 @@ A Rust project for analyzing filesystem information and exploring systems-orient
 
 ---
 
-## 💼 What I Work On
+## What I Work On
 
 In my professional work, I've had the opportunity to work across the stack on enterprise applications, including:
 
@@ -150,7 +150,7 @@ I work with AWS as part of my broader full-stack development experience and cont
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 I'm continuing to expand my experience in:
 
@@ -163,7 +163,7 @@ I'm continuing to expand my experience in:
 - Performance and developer tooling
 ---
 
-## 📫 Connect
+## 🌐 Connect
 
 The best place to reach me professionally is on LinkedIn.
 
