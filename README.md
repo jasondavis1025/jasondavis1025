@@ -21,10 +21,10 @@ My background originally started in **bioinformatics**, where I wrote software t
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,cs,rust,html,css" alt="TypeScript, JavaScript, C#, Rust, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,python,rust,html,css" alt="TypeScript, JavaScript, C#, Python, Rust, HTML, CSS" />
 </p>
 
-**TypeScript** • **JavaScript** • **C#** • **Rust** • **HTML** • **CSS**
+**TypeScript** • **JavaScript** • **C#** • **Python**  • **Rust** • **HTML** • **CSS**
 
 ### Frontend
 
