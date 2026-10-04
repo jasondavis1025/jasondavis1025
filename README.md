@@ -4,7 +4,7 @@
 
 I build and modernize full-stack applications with a focus on **Angular, TypeScript, Node.js, .NET, and relational databases**.
 
-My professional work spans enterprise application modernization, frontend architecture, developer tooling, performance optimization, API integrations, and data-driven applications. I'm currently expanding that experience into **AI-enabled development and the Microsoft Power Platform ecosystem**, exploring how AI and emerging technologies can be applied to real-world software and business systems.
+My professional work spans enterprise application modernization, frontend architecture, developer tooling, performance optimization, API integrations, and data-driven applications. I also use **Cursor** and **Claude Code** for AI-assisted software development and work with the **Microsoft Power Platform ecosystem**.
 
 My background originally started in **bioinformatics**, where I wrote software to automate research workflows and analyze scientific data. Today, I work across the full stack while continuing to explore **AI, cloud architecture, Rust, distributed systems, and modern development tooling**.
 
@@ -74,11 +74,15 @@ My background originally started in **bioinformatics**, where I wrote software t
   <img src="./assets/CUBE_25D.png" width="48" height="48" alt="Cursor" />
   &nbsp;&nbsp;
   <img src="./assets/PowerPlatform_scalable.svg" width="48" height="48" alt="Microsoft Power Platform" />
+  <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude Code" />
+  &nbsp;&nbsp;
 </p>
 
 
 
-**Cursor** • **AI-Assisted Development** • **Microsoft AI Ecosystem** • **Dataverse**
+**Cursor** • **Claude Code** • **AI-Assisted Development** • **Agent Skills** • **Model Context Protocol (MCP)** • **Microsoft Power Platform** • **Dataverse**
+
+I use **Cursor** and **Claude Code** across terminal and **VS Code** workflows for application development, debugging, refactoring, and technical research. My approach incorporates **reusable agent skills**, **MCP integrations**, **subagents**, and **project-specific instructions** to support consistent development practices, connect with external tools and data, and streamline feature delivery.
 
 ---
 
@@ -154,7 +158,7 @@ I work with AWS as part of my broader full-stack development experience and cont
 
 I'm continuing to expand my experience in:
 
-- **AI-assisted software development**, including building applications with Cursor
+- **AI-assisted software development**, including building applications with Cursor and Claude Code
 - **Microsoft AI and Power Platform technologies**, including Dataverse
 - **Rust** and systems programming
 - Application and system architecture
